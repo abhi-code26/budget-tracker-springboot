@@ -1,5 +1,8 @@
 # budget-tracker-springboot
 
+A backend application built using Spring Boot for tracking and managing user expenses.
+
+
 ### Sample API Calls
 
 - `GET /expenses` → List all expenses  
@@ -10,6 +13,6 @@
 ### Technologies Used:
 - Spring Boot
 - Java
-- PostgreSQL
+- MYSQL
 - Postman (for testing)
 - Git
